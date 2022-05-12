@@ -1,11 +1,29 @@
 h1 {
   text-align: center;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+}
+ol{
+  max-width: 200px;
+  margin-left:auto;
+  margin-right:auto;
+  list-style-type:decimal
+}
+ul {
+  max-width: 200px;
+  margin-left:auto;
+  margin-right:auto;
+  list-style-type:disc;
   
 }
 p {
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   background-color: aqua;
   color: black;
-  max-width: 600px;
 }
